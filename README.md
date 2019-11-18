@@ -1,0 +1,2 @@
+# exercises
+Algorithm Exercises
